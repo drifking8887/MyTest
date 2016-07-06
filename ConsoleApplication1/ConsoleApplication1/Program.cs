@@ -13,6 +13,8 @@ namespace ConsoleApplication1
             Console.Write("ghgdhdhd");
 
             Console.Write("ghgdhdhd");
+
+            Console.Write("ghgdhdhd");
         }
     }
 }
